@@ -1,28 +1,21 @@
 # Quote
+By Trever Akumu
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+<h2>Description</h2>
+<p>This is a web application whereby the user can enter his quote and other users can vote whether the quote is impactive or not.The user can also put his name and the web appliction can show the last time when the Quotes were posted.</p>
 
-## Development server
+<h3>Challenges/Problems faced</h3>
+<p>I experienced alot of errors in several files and also putting the highlighter directive to to show the Quotes with the highest votes.</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<h4>Technologies Used</h4>
+<li>Angular CLI</li>
+<li>bootstrap</li>
+<li>CSS</li>
+<li>Index.html</li>
 
-## Code scaffolding
+<h5>Licence</h5>
+None
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-# Quote
+<h6>Acknowledgements</h6>
+<li>Thanks for Sylvia Mbugua for being patient and keeping me on toes as I was working on this project</li>
+<li>Thanks to Jack for the help on making me identify my errors</li>
