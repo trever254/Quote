@@ -1,0 +1,14 @@
+.container-fluid{
+    background: orangered;
+}
+h1{
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-align: center;
+}
+.container{
+    background-color: white;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
