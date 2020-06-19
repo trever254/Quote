@@ -8,6 +8,7 @@ import { DetailsComponent } from './details/details.component';
 import { QuoteComponent } from './quote/quote.component';
 import { HighlightDirective } from './highlight.directive';
 import { QuotesComponent } from './quotes/quotes.component';
+import { QuotesDirective } from './quotes.directive';
 
 
 @NgModule({
@@ -17,7 +18,8 @@ import { QuotesComponent } from './quotes/quotes.component';
     DetailsComponent,
     QuoteComponent,
     HighlightDirective,
-    QuotesComponent
+    QuotesComponent,
+    QuotesDirective
   ],
   imports: [
     BrowserModule,
